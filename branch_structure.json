@@ -1,0 +1,24 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "feat/issue-651-lf-165-richer-per-player-stats",
+    "feat/issue-652-lf-166-get-round-results-view",
+    "feat/issue-653-lf-167-owner-configurable-milestones",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "feat/issue-651-lf-165-richer-per-player-stats": "main",
+    "feat/issue-652-lf-166-get-round-results-view": "main",
+    "feat/issue-653-lf-167-owner-configurable-milestones": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "feat/issue-651-lf-165-richer-per-player-stats",
+    "feat/issue-652-lf-166-get-round-results-view",
+    "feat/issue-653-lf-167-owner-configurable-milestones",
+    "origin"
+  ]
+}
